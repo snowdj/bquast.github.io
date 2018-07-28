@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Bastiaan Quast"
 description              : "qua.st"
 url                      : "https://snowdj.github.io"
-baseurl                  : "/miniblog"# the subpath of your site, e.g. "/blog"
+baseurl                  : "/miniblog"  # the subpath of your site, e.g. "/blog"
 repository               : snowdj/miniblog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
