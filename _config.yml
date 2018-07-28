@@ -13,9 +13,9 @@ title                    : "qua.st"
 title_separator          : "-"
 name                     : "Bastiaan Quast"
 description              : "Peronsal blog and site"
-url                      : http://qua.st
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : bquast/bquast.github.io
+url                      : "https://snowdj.github.io"
+baseurl                  : "/miniblog"# the subpath of your site, e.g. "/blog"
+repository               : snowdj/miniblog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -72,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  provider               : false # google-universal # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-52945502-2
 
